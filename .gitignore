@@ -1,0 +1,22 @@
+# python
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# old versions
+v2-old/
+v1-old/
+servers-old/
+
+# secrets
+*.json
+*.pem
+*.p12
+.env
